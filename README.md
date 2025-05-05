@@ -1,4 +1,4 @@
-# 🌾 Agricultural Price Analysis Dashboard (India & USA)
+# 🌾 Producer Price Analysis Dashboard (India & USA)
 
 This Power BI project presents an interactive dashboard analyzing the **consumer price trends of agricultural products** in **India** and the **United States** using data from the **FAO (Food and Agriculture Organization of the United Nations)**.
 
