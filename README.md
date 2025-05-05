@@ -38,7 +38,8 @@ This dashboard compares agricultural product price trends between India and the 
 
 ## 📷 Dashboard Preview
 
-> ![Dashboard Screenshot](./path-to-your-dashboard-image.png)  
+<img width="639" alt="image" src="https://github.com/user-attachments/assets/4b2798b1-d480-47f4-818a-7ba95adf6a97" />
+
 
 
 ## 🚀 Getting Started
